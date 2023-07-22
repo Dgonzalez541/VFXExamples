@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UnrealProjects\\VFXExamples\\VFXExamples\\Source\\VFXExamples\\VFXExamples.Build.cs",
+		"C:\\UnrealProjects\\VFXExamples\\VFXExamples\\Source\\VFXExamples.Target.cs",
+		"C:\\UnrealProjects\\VFXExamples\\VFXExamples\\Source\\VFXExamplesEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VFXExamples",
+			"Path": "C:\\UnrealProjects\\VFXExamples\\VFXExamples\\Source\\VFXExamples.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VFXExamplesEditor",
+			"Path": "C:\\UnrealProjects\\VFXExamples\\VFXExamples\\Source\\VFXExamplesEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
